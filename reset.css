@@ -1,0 +1,44 @@
+
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: sans-serif;
+    background-image: url("papel-de-parede-xadrez-mod-41-papel-de-parede-para-balcao.webp");
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+    padding: 15px 0;
+  }
+  
+  .divinicola {
+    text-align: center;
+  }
+  
+  .vinis {
+    margin-right: 475px; 
+    display: inline-block; 
+  }
+  
+  .shirt {
+    width: 15%;
+  }
+  
+  .music {
+    text-align: center;
+    position: relative;
+    top: -100px;
+    margin-left: 100px;
+  }
+  
+ 
